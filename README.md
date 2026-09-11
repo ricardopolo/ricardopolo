@@ -6,5 +6,3 @@ United States and Latin America. Previously founded Boardgent, acquired by Auvik
 - Website: [ricardopolo.com](https://ricardopolo.com)
 - LinkedIn: [linkedin.com/in/ricardopoloj](https://www.linkedin.com/in/ricardopoloj/)
 - Email: [ricardo@ricardopolo.com](mailto:ricardo@ricardopolo.com)
-
----
